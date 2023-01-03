@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.Random;
 
 public class MinMaxAverageValueInList {
+    /**
+     * Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее из этого списка
+     */
     public static void main(String[] args) {
         List<Integer> array = new ArrayList<>();
         int size = 10;

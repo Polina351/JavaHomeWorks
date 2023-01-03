@@ -5,6 +5,10 @@ import java.util.List;
 import java.util.Random;
 
 public class RemoveEvenNumbers {
+    /**Пусть дан произвольный список целых чисел,
+    удалить из него четные числа
+     */
+
     public static void main(String[] args) {
         List<Integer> array = new ArrayList<>();
         int size = 10;
