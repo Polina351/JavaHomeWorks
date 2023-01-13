@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da204f8-f5f6-49b8-9300-2d8d6b853a3a" name="Changes" comment="HW3">
+    <list default="true" id="5da204f8-f5f6-49b8-9300-2d8d6b853a3a" name="Changes" comment="Без метода фильтр">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar4/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar4/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar6/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar6/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Queue">
+  <component name="RunManager" selected="Application.Seminar7.InteractionsBetweeтObjects.Program">
     <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar4.Calc" />
       <module name="JavaHomeWorks" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxAverageValueInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar3.MinMaxAverageValueInList" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar6.Program" />
       <module name="JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminar3.*" />
+          <option name="PATTERN" value="Seminar6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar3.RemoveEvenNumbers" />
+    <configuration name="Seminar7.FamilyTree.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar7.FamilyTree.Program" />
       <module name="JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminar3.*" />
+          <option name="PATTERN" value="Seminar7.FamilyTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar4.ReversList" />
+    <configuration name="Seminar7.InteractionsBetweeтObjects.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar7.InteractionsBetweeтObjects.Program" />
       <module name="JavaHomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminar4.*" />
+          <option name="PATTERN" value="Seminar7.InteractionsBetweeтObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seminar7.InteractionsBetweeтObjects.Program" />
+        <item itemvalue="Application.Seminar7.FamilyTree.Program" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.Queue" />
         <item itemvalue="Application.Calc" />
-        <item itemvalue="Application.ReversList" />
-        <item itemvalue="Application.RemoveEvenNumbers" />
-        <item itemvalue="Application.MinMaxAverageValueInList" />
       </list>
     </recent_temporary>
   </component>
@@ -180,13 +180,29 @@
       <option name="project" value="LOCAL" />
       <updated>1673015355071</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Task2">
+      <created>1673021250071</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673021250071</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Без метода фильтр">
+      <created>1673626106131</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673626106136</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW 5" />
     <MESSAGE value="HW 3" />
     <MESSAGE value="HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
+    <MESSAGE value="Task2" />
+    <MESSAGE value="Без метода фильтр" />
+    <option name="LAST_COMMIT_MESSAGE" value="Без метода фильтр" />
   </component>
 </project>
