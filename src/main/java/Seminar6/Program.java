@@ -9,7 +9,7 @@ public class Program {
     Map filter = new HashMap();
     fillMapParametr(parametrNum);
     filter(parametrNum, filter);
-    filteration(filter, setLaptop);
+
 
     }
     public static Set<Laptop> createLaptopSet(){
@@ -79,18 +79,4 @@ public class Program {
         map.put(4, "SSD");
     }
 
-    private static void filteration(Map filter, Set<Laptop> laptopSet) {
-        System.out.println(filter.get("SSD"));
-
-//        for (Laptop lt:
-//             laptopSet) {
-//            if((String)lt.SSD == (String) filter.get("brend")) {
-//                System.out.println(lt);
-//            }
-//            else {
-//                System.out.println(lt.brend);
-//            }
-//        }
-
-    }
 }
